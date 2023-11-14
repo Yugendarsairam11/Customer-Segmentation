@@ -8,4 +8,6 @@ Acquiring insights about the client is foundational to comprehending how the bus
 
 The primary challenge faced by Sprocket Central Pty Ltd revolves around their customer and transactional data. Although the organization possesses a substantial dataset related to its customers, the team is uncertain about how to effectively analyze it to optimize their marketing strategy.
 
-Please refer to https://medium.com/@yugendarsairam/customer-segmentation-1a1a286e5269 for detailed Analysis and Explanation
+Please refer to https://medium.com/@yugendarsairam/customer-segmentation-1a1a286e5269 for detailed Analysis and Explanation.
+
+Thank you !
